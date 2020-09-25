@@ -1,0 +1,10 @@
+E:\Папа\Тестовые датаАрт\console application\bin\Debug\console application.exe.config
+E:\Папа\Тестовые датаАрт\console application\bin\Debug\console application.exe
+E:\Папа\Тестовые датаАрт\console application\bin\Debug\console application.pdb
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console application.csprojAssemblyReference.cache
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console_application.Form1.resources
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console_application.Properties.Resources.resources
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console application.csproj.GenerateResource.cache
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console application.csproj.CoreCompileInputs.cache
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console application.exe
+E:\Папа\Тестовые датаАрт\console application\obj\Debug\console application.pdb
